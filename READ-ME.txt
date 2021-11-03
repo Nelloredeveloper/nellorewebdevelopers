@@ -1,0 +1,11 @@
+  =>  Template Name    : Startup - Startup Website Template
+
+  =>  Template Link    : https://nellorewebdevelopers.com/startup-website-template
+
+  =>  Template License : https://nellorewebdevelopers.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : NelloreWebDevelopers
+
+  =>  Author Website   : https://nellorewebdevelopers.com
+
+  =>  About NelloreWebDevelopers : NelloreWebDevelopers is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://nellorewebdevelopers.com/about-us )
