@@ -1,0 +1,11 @@
+  =>  Template Name    : Startup - Startup Website Template
+
+  =>  Template Link    : https://DvrSolutions.com/startup-website-template
+
+  =>  Template License : https://DvrSolutions.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : DvrSolutions
+
+  =>  Author Website   : https://DvrSolutions.com
+
+  =>  About DvrSolutions : DvrSolutions is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://DvrSolutions.com/about-us )
