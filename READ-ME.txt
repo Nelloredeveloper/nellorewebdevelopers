@@ -1,11 +1,11 @@
   =>  Template Name    : Startup - Startup Website Template
 
-  =>  Template Link    : https://nellorewebdevelopers.com/startup-website-template
+  =>  Template Link    : https://DvrSolutions.com/startup-website-template
 
-  =>  Template License : https://nellorewebdevelopers.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://DvrSolutions.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : NelloreWebDevelopers
+  =>  Template Author  : DvrSolutions
 
-  =>  Author Website   : https://nellorewebdevelopers.com
+  =>  Author Website   : https://DvrSolutions.com
 
-  =>  About NelloreWebDevelopers : NelloreWebDevelopers is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://nellorewebdevelopers.com/about-us )
+  =>  About DvrSolutions : DvrSolutions is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://DvrSolutions.com/about-us )
